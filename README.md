@@ -17,4 +17,4 @@ In the Nashville Housing Data Cleaning Project, I focused on preprocessing the N
       I removed irrelevant or redundant columns to streamline the dataset and focus on essential features.
 
 ## Data Source
-The original Nashville housing dataset was obtained from [AlexTheAnalyst] (https://github.com/AlexTheAnalyst), and it contains information on Nashville Housing.
+The original Nashville housing dataset was obtained from [AlexTheAnalyst](https://github.com/AlexTheAnalyst), and it contains information on Nashville Housing.
